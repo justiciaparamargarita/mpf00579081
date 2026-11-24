@@ -4,6 +4,7 @@ expediente: "MPF00579081"
 original_filename: "568-RA-FCESTE-2021 MPF 579081 Persona desconocida s- art. 248 del CP.pdf"
 fecha_creacion_pdf: "2021-08-23T12:11:44-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/fiscalia-de-camara-pcyf-este-notificacio.e0567.eml"
+firma_digital: "GABRIEL ESTEBAN UNREIN Aug 23 2021 12:11:46; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
